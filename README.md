@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### 모두를 위한 작은 변화를 만듭니다.
+👋 안녕하세요, 학생 개발자 김도훈입니다.
+
+
+
 <!--
 **opendatalabe/opendatalabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
